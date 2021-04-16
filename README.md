@@ -14,6 +14,6 @@ Project cuối kì môn lập trình nâng cao
 Nếu bạn chỉ muốn chơi game thay vì những dòng code :') 
 *) Link : https://drive.google.com/file/d/1vnFiumf0HOLT42PigZpsbsYZ9ZFrkTcE/view?usp=sharing
 
-Good luck and have fun !!!!
+Good luck and have fun !!!! :D
 
 -Sterben-
