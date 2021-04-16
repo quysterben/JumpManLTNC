@@ -10,10 +10,10 @@ Project cuối kì môn lập trình nâng cao
 *) Tips : 
  - Cố ấn càng gần nhân vật để nhảy càng cao ( nhưng đừng để chạm vào nhân vật ).
  - Nhân vật di chuyển ra xa khỏi chuột ngay cả khi trên không nên hãy tận dụng để BAY XA HƠN khi NHẢY và CĂN SAO CHO RƠI CHÚNG BLOCK THAY VÌ XUỐNG HỐ.
- 
-Good luck and have fun !!!!
 
 Nếu bạn chỉ muốn chơi game thay vì những dòng code :') 
-Link : https://drive.google.com/file/d/1vnFiumf0HOLT42PigZpsbsYZ9ZFrkTcE/view?usp=sharing
+*) Link : https://drive.google.com/file/d/1vnFiumf0HOLT42PigZpsbsYZ9ZFrkTcE/view?usp=sharing
+
+Good luck and have fun !!!!
 
 -Sterben-
