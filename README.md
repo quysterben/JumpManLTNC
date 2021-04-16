@@ -13,6 +13,7 @@ Project cuối kì môn lập trình nâng cao
  
 Good luck and have fun !!!!
 
-Đây là code của game. Nếu bạn muốn chơi game hãy down tại đây : 
+Nếu bạn chỉ muốn chơi game thay vì những dòng code :') 
+Link : https://drive.google.com/file/d/1vnFiumf0HOLT42PigZpsbsYZ9ZFrkTcE/view?usp=sharing
 
 -Sterben-
