@@ -106,23 +106,23 @@ bool Ground::isGroundBelow (float x_pos_, int width)
         switch (groundTile->get_status())
         {
         case Center:
-			if ( (x_pos_ + width > groundTile->get_Left()) && (x_pos_ < groundTile->get_Right()) )
-			{
-				return true;
-			}
-			break;
-		case Left:
-			if ( (x_pos_ + width > groundTile->get_Left() + 30) && (x_pos_ < groundTile->get_Right()) )
-			{
-				return true;
-			}
-			break;
-		case Right:
-			if ( (x_pos_ + width > groundTile->get_Left()) && (x_pos_ < groundTile->get_Right()-30) )
-			{
-				return true;
-			}
-			break;
+		if ( (x_pos_ + width > groundTile->get_Left()) && (x_pos_ < groundTile->get_Right()) )
+		{
+			return true;
+		}
+		break;
+	case Left:
+		if ( (x_pos_ + width > groundTile->get_Left() + 30) && (x_pos_ < groundTile->get_Right()) )
+		{
+			return true;
+		}
+		break;
+	case Right:
+		if ( (x_pos_ + width > groundTile->get_Left()) && (x_pos_ < groundTile->get_Right()-30) )
+		{
+			return true;
+		}
+		break;
         }
     }
     return false;
