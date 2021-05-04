@@ -44,8 +44,8 @@ void Ground::SetupGround(std::string GroundPath, int GroundSpawnX, int GroundSta
 
 void Ground::MakeGround(SDL_Renderer* screen)
 {
-    int myRandomNormalGround = rand() % 3;
-    int myRandomHoleGround = rand() % 4;
+    int myRandomNormalGround = rand() % 2;
+    int myRandomHoleGround = rand() % 3;
 
     for (int i=0; i < myRandomNormalGround; i++)
     {
