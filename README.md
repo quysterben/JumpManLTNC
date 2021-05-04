@@ -1,5 +1,5 @@
 Jump Man! 
-
+Tự đánh giá 9+.
 Học tập và tham khảo:
  - https://phattrienphanmem123az.com/
  - https://lazyfoo.net/tutorials/SDL/index.php
