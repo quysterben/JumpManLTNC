@@ -4,7 +4,9 @@ Tính năng game:
  - Hole và ground được sinh random.
  - Tính điểm theo lượt block mà đi được wa.
  - Có lưu điểm cao nhất và thay đổi wa các lần chơi nếu điểm đó cao hơn điểm gốc.
+ - 
 Tự đánh giá 9+.
+
 Học tập và tham khảo:
  - https://phattrienphanmem123az.com/
  - https://lazyfoo.net/tutorials/SDL/index.php
