@@ -1,4 +1,9 @@
 Jump Man! 
+Tính năng game:
+ - Lấy tọa độ chuột để tính khoảng cách tới nhân vật, làm nhân vật di chuyển xa khỏi con chuột.
+ - Hole và ground được sinh random.
+ - Tính điểm theo lượt block mà đi được wa.
+ - Có lưu điểm cao nhất và thay đổi wa các lần chơi nếu điểm đó cao hơn điểm gốc.
 Tự đánh giá 9+.
 Học tập và tham khảo:
  - https://phattrienphanmem123az.com/
@@ -15,7 +20,7 @@ Học tập và tham khảo:
  - Nhân vật di chuyển ra xa khỏi chuột ngay cả khi trên không nên hãy tận dụng để BAY XA HƠN khi NHẢY và CĂN SAO CHO RƠI CHÚNG BLOCK THAY VÌ XUỐNG HỐ.
  
 
-*) Link : https://drive.google.com/file/d/1vnFiumf0HOLT42PigZpsbsYZ9ZFrkTcE/view?usp=sharing
+*) Link exe: https://drive.google.com/file/d/1vnFiumf0HOLT42PigZpsbsYZ9ZFrkTcE/view?usp=sharing
 
 Good luck and have fun !!!! :D
 
