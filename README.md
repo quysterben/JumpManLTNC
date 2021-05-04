@@ -1,5 +1,8 @@
-PROJECT : Jump Man! 
-Project cuối kì môn lập trình nâng cao
+Jump Man! 
+
+Học tập và tham khảo:
+ - https://phattrienphanmem123az.com/
+ - https://lazyfoo.net/tutorials/SDL/index.php
 
 *) Cách chơi : 
  -  Nhân vật của bạn sẽ di chuyển xa ra khỏi con chuột. Dùng chuột để di chuyển nhân vật wa TRÁI và PHẢI.
